@@ -278,6 +278,10 @@ usage: apkpatch -m <apatch_path...> -o <output> -k <keystore> -p <***> -a <alias
 	
 	> 这个问题是，上面那个问题造成的。只要补丁文件生成正确，是不会有这个问题的。
 	
+	参考文章：
+	
+	* [Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51)
+	* [AndFix使用说明](http://www.jianshu.com/p/479b8c7ec3e3)
 	
 	
 	
