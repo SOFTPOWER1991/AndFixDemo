@@ -1,4 +1,4 @@
-ndroid HotFix —— AndFix使用说明
+Android HotFix —— AndFix使用说明
 
 项目以飞快的速度迭代，2周进行一次迭代升级。每次开发完功能跑通，在现有机型上测试没问题的话，就提交市场。
 
